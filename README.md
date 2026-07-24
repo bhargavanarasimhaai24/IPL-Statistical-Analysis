@@ -46,8 +46,9 @@ The datasets contain information about:
 - Venues
 - Innings statistics
 
-Dataset Source:
+The datasets are included in the `data/` directory for reproducibility.
 
+Original source:
 https://www.kaggle.com/datasets
 
 *(The datasets are publicly available on Kaggle. Please refer to Kaggle for the original source and licensing information.)*
