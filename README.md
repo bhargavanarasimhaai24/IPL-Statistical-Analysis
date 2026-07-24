@@ -29,7 +29,7 @@ This project uses the publicly available IPL datasets from Kaggle.
 
 Datasets used:
 
-- `IPL.csv`
+- `ipl_data.csv`
 - `matches.csv`
 - `deliveries.csv`
 
