@@ -173,7 +173,7 @@ git clone https://github.com/your-username/ipl-statistical-analysis.git
 Navigate to the project directory
 
 ```bash
-cd ipl-statistical-analysis
+cd IPL-Statistical-Analysis
 ```
 
 Install the required libraries
