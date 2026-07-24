@@ -217,9 +217,9 @@ The analysis includes:
 
 ## Author
 
-**Your Name**
+**Kopparapu Bhargava Narasimha**
 
-B.Tech Artificial Intelligence & Machine Learning
+B.E Artificial Intelligence & Machine Learning
 
 BMS College of Engineering
 
