@@ -17,6 +17,12 @@ This project was developed to apply core statistical concepts on real-world cric
 
 ---
 
+## Research Questions
+
+1. Does winning the toss significantly increase the probability of winning an IPL match?
+2. Is batting first associated with a higher chance of winning?
+3. Can the number of wickets per over in IPL matches be modeled using a Poisson distribution?
+
 ## Dataset
 
 This project uses the publicly available IPL datasets from Kaggle.
