@@ -25,13 +25,13 @@ DATA_DIR = PROJECT_ROOT / "data"
 
 def load_ipl():
     """
-    Load IPL.csv dataset.
+    Load ipl_data.csv dataset.
 
     Returns
     -------
     pandas.DataFrame
     """
-    path = DATA_DIR / "IPL.csv"
+    path = DATA_DIR / "ipl_data.csv"
 
     if not path.exists():
         raise FileNotFoundError(f"Dataset not found: {path}")
