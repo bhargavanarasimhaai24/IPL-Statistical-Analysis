@@ -139,16 +139,19 @@ ipl-statistical-analysis/
 
 │
 ├── data/
-│   ├── IPL.csv
-│   ├── deliveries.csv
+│   ├── ipl_data.csv
+│   ├── deliveries.csv #you have to download
 │   └── matches.csv
 │
 ├── notebooks/
 │   └── IPL_Statistical_Analysis.ipynb
 │
-├── outputs/
-│   ├── plots/
-│   └── results/
+├── src/
+│   ├── confidence_intervals.py/
+│   ├── data_loader.py/
+|   ├── hypothesis_testing.py/
+|   ├── sampling.py/
+|   └── utils.py
 │
 ├── README.md
 ├── requirements.txt
